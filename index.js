@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS, Discord.Intents.FLAGS.GUILD_MESSAGES] });
 
-const PREFIX = 'MTA4NDIxMTg1Mjg3NzI1MDYyMQ.GK5vFS.vdUvP4eIxK8NwF84yQWSouKj69kTuVa4BI1MtU';
+const PREFIX = 'MTA4NDIxMTg1Mjg3NzI1MDYyMQ.GZo6eo.Hx8ITAWWRx66NG2jDbMN0r09SjjCC4pxvPFM9Y';
 
 client.on('ready', () => {
   console.log('Bot is ready!');
